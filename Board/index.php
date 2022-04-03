@@ -7,6 +7,6 @@
     <title>Board</title>
 </head>
 <body>
-    test
+    test12
 </body>
 </html>
